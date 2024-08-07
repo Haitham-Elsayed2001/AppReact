@@ -2,9 +2,9 @@
   "name": "app1",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Haitham-Elsayed.github.io/app",
   "type": "module",
   "scripts": {
-   
     "dev": "vite",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
